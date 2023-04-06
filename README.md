@@ -16,7 +16,7 @@ My educational background includes:
 
 I Worked as a teacher for several years, but found programming fascinating, so I decided to dive in and learn more about it.
 
-I am currently studying front-end web development at Sundsgårdens Folkhögskola Rydebäck, Sweden.
+Having successfully completed a course in IT-front-end web development at Sundsgrdens Folkhögskola Rydebäck, Sweden.
 
 In order to improve my skills, I am currently seeking an internship. 
 
