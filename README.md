@@ -46,4 +46,4 @@ I'm always open to connecting with fellow developers, tech enthusiasts, and pote
 - [LinkedIn](https://www.linkedin.com/in/emalgari)
 - [Email](mailto:emalgari@proton.me)
 
-Thanks for visiting my GitHub profile! 🚀
+Thanks for visiting! 🚀
